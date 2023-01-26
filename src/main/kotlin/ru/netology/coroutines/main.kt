@@ -46,7 +46,7 @@ fun main() {
             }
         }
         val result = tasks.awaitAll()
-        println("Result:$result")
+        println("Результат :$result")
     }
 }
 
